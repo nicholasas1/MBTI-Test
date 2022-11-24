@@ -33,7 +33,7 @@ if(isset($_POST['d'])){
     <link rel='stylesheet' href='css/mbti.css?<?php echo md5(date('r'));?>' />
   </head>
   <body>
-    <header><h1>:: PAPS Test</h1></header>
+    <header><h1>:: PAPS Test Result</h1></header>
     <div class='container'>
       <h1><?php echo $data->symbol;?></h1>
       <h2>(<?php echo $data->short;?>)</h2>
