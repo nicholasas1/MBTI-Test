@@ -33,7 +33,7 @@ if(isset($_POST['d'])){
     <link rel='stylesheet' href='css/mbti.css?<?php echo md5(date('r'));?>' />
   </head>
   <body>
-    <header><h1>:: Myer Briggs Type Indicator (MBTI) Test</h1></header>
+    <header><h1>:: PAPS Test</h1></header>
     <div class='container'>
       <h1><?php echo $data->symbol;?></h1>
       <h2>(<?php echo $data->short;?>)</h2>
@@ -59,7 +59,6 @@ if(isset($_POST['d'])){
         <?php echo $data->partner;?>
       </div>
     </div>
-    <footer>copyright &copy; 2016<?php echo (date('Y')>2016?date('Y'):'');?> by <a href='mailto:cahyadsn@gmail.com'>cahya dsn</a></footer>
   </body>
 </html>
 <?php

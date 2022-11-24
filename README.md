@@ -37,16 +37,3 @@ Dimensi terakhir melihat derajat fleksibilitas seseorang. Judging di sini bukan 
 5. ubah konfigurasi database pada file 'inc/config.php' sesuai dengan yang digunakan 
 6. enjoy
 
-## Teknologi
-+ PHP (http://www.php.net/), 
-+ MySQL (http://www.mysql.com/), 
-
-## Donasi
-+ Bank Syariah Indonesia 821 342 5550
-+ Paypal (https://paypal.me/cahyadwiana)
-
-## Contact
-+ facebook (https://m.facebook.com/cahya.dsn)
-+ email (cahyadsn@gmail.com)
-+ demo site    : (http://psycho.cahyadsn.com/mbti)
-+ source code  : (https://github.com/cahyadsn/mbti)
